@@ -14,7 +14,7 @@ Setup consist of 3 parts
 ## Install dependencies
 I recommend a pip virtual environment. I think you'll need:
 * `google-api-python-client`, `google-auth-httplib2`, and `google-auth-oauthlib` for the google API
-* `pyqrcode` for QR Code generation
+* `pyqrcode` and `pypng` for QR Code generation
 * `playsound` for playing confirmation sounds in Check-in-gine
 * `PySimpleGUI` for UI
 * `opencv-python` for QR code scanning, though it might be the community edition. Can't remember
