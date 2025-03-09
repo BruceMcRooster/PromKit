@@ -1,4 +1,5 @@
-Warning: I haven't used this in a while. Its current state is unknown, but it worked in 2023.
+> [!WARNING]
+> I haven't used this in a while. Its current state is unknown, but it worked in 2023.
 
 # PromKit
 
